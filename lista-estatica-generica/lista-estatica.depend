@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1629749026 source:/home/ferreira/faculdade/Estrutura-de-dados/lista-estatica/main.cpp
+	<iostream>
+	"lista-estatica.cpp"
+
+1629749337 /home/ferreira/faculdade/Estrutura-de-dados/lista-estatica/lista-estatica.h
+	<string>
+	<iostream>
+
+1629749506 source:/home/ferreira/faculdade/Estrutura-de-dados/lista-estatica/lista-estatica.cpp
+	"lista-estatica.h"
+
+1629749159 /home/ferreira/faculdade/Estrutura-de-dados/lista-estatica/lista-estatica.cpp
+	"lista-estatica.h"
+
+1629749506 source:/home/ferreira/faculdade/Estrutura-de-dados/lista-estatica-generica/lista-estatica.cpp
+	"lista-estatica.h"
+
+1629749337 /home/ferreira/faculdade/Estrutura-de-dados/lista-estatica-generica/lista-estatica.h
+	<string>
+	<iostream>
+
+1629749761 source:/home/ferreira/faculdade/Estrutura-de-dados/lista-estatica-generica/main.cpp
+	<iostream>
+	"lista-estatica.cpp"
+
+1629749506 /home/ferreira/faculdade/Estrutura-de-dados/lista-estatica-generica/lista-estatica.cpp
+	"lista-estatica.h"
+
