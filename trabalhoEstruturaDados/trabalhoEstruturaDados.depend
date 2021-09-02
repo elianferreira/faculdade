@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630545797 source:/home/ferreira/faculdade/Estrutura-de-dados/trabalhoEstruturaDados/main.cpp
+	<iostream>
+	<time.h>
+	<random>
+	<dirent.h>
+
